@@ -91,6 +91,7 @@ arduino.on('data', function (data) {
   console.log(buf.toString('utf8'));
   //console.log(buf);
   **/
+  
 });
 
 server.listen(8081);
