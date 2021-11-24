@@ -1,0 +1,3 @@
+C:\Users\Michel\source\repos\arduiNode\obj\Debug\arduiNode.njsproj.AssemblyReference.cache
+C:\Users\Michel\source\repos\arduiNode\obj\Debug\arduiNode.njsproj.CoreCompileInputs.cache
+C:\Users\Michel\source\repos\arduiNode\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,19 @@
+{
+  "name": "ardui-node",
+  "version": "0.0.0",
+  "description": "arduiNode",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "path": "^0.12.7",
+    "serialport": "^9.2.7",
+    "socket.io": "^4.4.0",
+    "url": "^0.11.0",
+    "ws": "^8.2.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2280fa69-1428-42e3-a4bd-0f2b81123e0c": {
+      "ProjectGuid": "2280fa69-1428-42e3-a4bd-0f2b81123e0c",
+      "DisplayName": "arduiNode",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
